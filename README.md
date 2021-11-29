@@ -8,7 +8,7 @@ This project is for **educational** porpuses only. Pull request are welcome, but
 
 Site published at: https://romimb.github.io/3-mergaite-404/
 
-Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
+Design: [Mergaite](https://cdn.discordapp.com/attachments/850245533838868480/850246211415834634/unknown.png)
 
 ## Project features
 
